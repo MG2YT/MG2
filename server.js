@@ -18,7 +18,7 @@ client.on("message", message => {
   }
 });
 
-client.login("ODYxMzQ4MjkwMjI5NTY3NTA5.YOIfGw.ugW_AeXDCx-pyTyKvpb-YhvuwBY");
+client.login("ODYxMzQ4MjkwMjI5NTY3NTA5.YOIfGw.xit2vqD0ysDGOzRTdzqPlH_UtnU");
 
 client.on("message", message => {
   if (message.content === "hello") {
